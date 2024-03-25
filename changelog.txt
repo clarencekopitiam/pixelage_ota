@@ -1,0 +1,23 @@
+27/3/2024 (Miatoll)
+- Initial QPR2 release
+- GApps included
+- Optimization added for better daily usability
+- Updated adreno driver to v757
+- Switched to USB v1.3
+- Several minor stuffs added
+- OTA will be available for all of my upcoming releases (usable with my TWRP)
+1. Play Integrity Fix
+2. Pixel 8 Pro spoofs
+3. Unlimited Google Photos
+4. Bootloader spoofs
+5. Gaming Prop spoofs
+6. MIUI Camera Compatibility
+7. Three fingers swipe to screenshots
+8. Option for LTE_CA
+9. Enabled LTE+ by default
+10. Added windows ignore secure
+11. Improvement on scrolling and HWUI
+12. Added NFC statusbar icon
+13. Added brightness curve (better for outdoor usage)
+14. Moto Dolby compatibility
+15. DT2S in Launcher
