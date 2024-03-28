@@ -21,3 +21,10 @@
 13. Added brightness curve (better for outdoor usage)
 14. Moto Dolby compatibility
 15. DT2S in Launcher
+
+28/3/2024 (Miatoll)
+- Fixed MIUICamera auto close upon snapping photos
+- Package Installer failed to install certain apps
+- Added some improvements to camera stability
+- Updated Dolby Atmos to v3.7 (based on reiryuki)
+- Switched to OSS soundtrigger
