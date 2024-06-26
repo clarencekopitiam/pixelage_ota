@@ -1,3 +1,13 @@
+26/6/2024 (Miatoll)
+- Fixed crash in Shortcuts via Lock Screen section
+- Added more monet icons from modded Pixel Launcher
+- Added face unlock
+- Added cycle through ringer modes
+- Added in-call vibration
+- Downgraded few adreno blobs from vayu for miuicam stability
+- Dexpreopt SystemUI, Settings and Pixel Launcher (minor improvement for boot-in-time performance)
+- Google Sans as default fonts
+
 25/6/2024 (Miatoll)
 - Initial QPR3 build
 
