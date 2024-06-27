@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1719369658,
-      "filename": "lineage-21.0-20240626-UNOFFICIAL-miatoll.zip",
-      "id": "dda14a62654eaf6f369f1f5c042dce1de2ff9a1f923721151fba15563c7198aa",
+      "datetime": 1719497720,
+      "filename": "lineage-21.0-20240627-UNOFFICIAL-miatoll.zip",
+      "id": "ddc36d69445fd1719c774da7331f54e9a8f9ac393bebf5b5b3761c1ca0040e95",
       "romtype": "UNOFFICIAL",
-      "size": 2126019322,
-      "url": "https://github.com/clarencekopitiam/device_xiaomi_miatoll/releases/download/20240626/lineage-21.0-20240626-UNOFFICIAL-miatoll.zip",
+      "size": 2124337065,
+      "url": "https://github.com/clarencekopitiam/device_xiaomi_miatoll/releases/download/20240627/lineage-21.0-20240627-UNOFFICIAL-miatoll.zip",
       "version": "21.0"
     }
   ]
