@@ -1,3 +1,9 @@
+30/6/2024 (Miatoll)
+- Added DeviceAsWebcam (Thanks 0xCAFEBABE's Backports)
+- Upgraded to QTI USB Gadget 1.2 HAL
+- Added more improvements to system stability (SystemUI,etc)
+- Disable more debug logspams and tracing
+
 27/6/2024 (Miatoll)
 - User build
 - Added back haptic gesture (Vibration section)
