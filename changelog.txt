@@ -1,3 +1,14 @@
+02/7/2024 (Miatoll)
+- First KOMUNITI build (new tag to differentiate Custom LOS)
+- Added secure QS on Lockscreen by default
+- Added option to hide power menu on lockscreen
+- Misc improvements to SystemUI
+- Tune statusbar padding (Arpon)
+- Changes to several blobs symlinks (EGL, IMS, WiFi)
+- Switched back to Pixel Thermal
+- Switched back to Prebuilt Audio (Should solved hissing audio on 3.5mm)
+- Switched to Google's software C2 media codecs
+
 30/6/2024 (Miatoll)
 - Added DeviceAsWebcam (Thanks 0xCAFEBABE's Backports)
 - Upgraded to QTI USB Gadget 1.2 HAL
