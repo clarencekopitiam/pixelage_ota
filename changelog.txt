@@ -1,3 +1,7 @@
+03/7/2024 (Miatoll)
+- Merged July SP
+- Reverted back to old statusbar padding
+
 02/7/2024 (Miatoll)
 - First KOMUNITI build (new tag to differentiate Custom LOS)
 - Added secure QS on Lockscreen by default
