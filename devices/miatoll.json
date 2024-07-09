@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1720019098,
-      "filename": "lineage-21.0-20240703_150642-KOMUNITI-miatoll.zip",
-      "id": "4d7e2c4a6572706326fc18ac1ce15d02c100e58ece4bd275ab9f28229fc6caf3",
+      "datetime": 1720502710,
+      "filename": "lineage-21.0-20240709_052514-KOMUNITI-miatoll.zip",
+      "id": "cec8e22143ea3a3dd2201c2ef49e701ecc35ac9c96d2847ecc6b811ac0e77295",
       "romtype": "KOMUNITI",
-      "size": 2125580561,
-      "url": "https://github.com/clarencekopitiam/device_xiaomi_miatoll/releases/download/20240703/lineage-21.0-20240703_150642-KOMUNITI-miatoll.zip",
+      "size": 2112191093,
+      "url": "https://github.com/clarencekopitiam/device_xiaomi_miatoll/releases/download/20240709/lineage-21.0-20240709_052514-KOMUNITI-miatoll.zip",
       "version": "21.0"
     }
   ]

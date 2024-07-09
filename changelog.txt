@@ -1,3 +1,11 @@
+09/07/2024 (Miatoll)
+- Synced and merged latest source from LOS
+- Removed software OMX blobs, uses AOSP default C2 OMX
+- Added options for fullscreen to all apps
+- Added app lock
+- Added VoLTE / Wifi Calling statusbar icons
+- Improvement and fixes on SystemUI
+
 03/7/2024 (Miatoll)
 - Merged July SP
 - Reverted back to old statusbar padding
