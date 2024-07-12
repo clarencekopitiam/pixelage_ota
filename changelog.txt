@@ -1,3 +1,9 @@
+12/07/2024 (Miatoll)
+- Added restart systemui option in Advanced Reboot
+- Move input surface to CCodec
+- Reverted statusbar padding to the origin state (LineageOS)
+- Redefine bluetooth a2dp offload capabilities (Removed unsupported aptX codecs which are not working in AOSP)
+
 09/07/2024 (Miatoll)
 - Synced and merged latest source from LOS
 - Removed software OMX blobs, uses AOSP default C2 OMX
