@@ -1,3 +1,12 @@
+13/07/2024 (Miatoll)
+- Added option to show as 4G or LTE
+- Added option to show Wi-Fi standard
+- Added option to show data usage in QS
+- Added battery estimation in QS
+- Fixed issues where screen record failed to start
+- Switched to AIDL memtrack hal
+- 69 improvements to SystemUI
+
 12/07/2024 (Miatoll)
 - Added restart systemui option in Advanced Reboot
 - Move input surface to CCodec
