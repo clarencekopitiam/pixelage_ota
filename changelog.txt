@@ -9,6 +9,7 @@
 - Removed seedvault (CalyxOS backup solution) and unrelated overlays
 - Switched to PixelPropsUtils and DeviceConfigUtils
 - Misc improvements to bionic
+- Spoof as Pixel 5a for Netflix (HDR10)
 
 13/07/2024 (Miatoll)
 - Added option to show as 4G or LTE
