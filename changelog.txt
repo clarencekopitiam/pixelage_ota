@@ -1,3 +1,15 @@
+20/07/2024 (Miatoll)
+- Included kinesis r4.3 rc2
+- Switched back to OSS Audio (Won the poll election)
+- Import mic changes from stock
+- Import audio policy volume xml from stock (headset user hopefully fixes your issues)
+- Enable few unreleased feature flags
+- Added optimization to system_server and SystemUI
+- Added various visual and support for some bluetooth devices
+- Removed seedvault (CalyxOS backup solution) and unrelated overlays
+- Switched to PixelPropsUtils and DeviceConfigUtils
+- Misc improvements to bionic
+
 13/07/2024 (Miatoll)
 - Added option to show as 4G or LTE
 - Added option to show Wi-Fi standard
