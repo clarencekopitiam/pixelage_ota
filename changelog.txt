@@ -1,3 +1,8 @@
+23/07/2024 (Miatoll)
+- Added lockscreen smartspace
+- Set bluetooth default devices name in libinit
+- Rebrand to Project Pixelage
+
 20/07/2024 (Miatoll)
 - Included kinesis r4.3 rc2
 - Switched back to OSS Audio (Won the poll election)
