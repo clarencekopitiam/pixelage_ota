@@ -1,3 +1,9 @@
+25/07/2024 (Miatoll)
+- Fixed for certain users faced systemui freezing frequently
+- Moved BGMI Spoof to Redmi K30 Ultra
+- telephony: Force Class 0 SMS to Class 1
+- Address few denials from AlarmManager
+
 23/07/2024 (Miatoll)
 - Added lockscreen smartspace
 - Set bluetooth default devices name in libinit
