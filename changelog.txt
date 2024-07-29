@@ -1,3 +1,24 @@
+29/07/2024 (Miatoll)
+**Device Side**
+- Switched back to Prebuilt Audio (to fix mic and wired earphone issues)
+- Set ZRAM dynamically for 4/6/8GB RAM users
+- Tweak paddings once again
+- Configure EGL multi-file cache at 32MB cache size limit
+- Set SystemUI Compiler Filter to "speed"
+- Set config_avoidGfxAccel to reduce RAM footprint and CPU/GPU intensity
+- Restart network (qcrild) after boot into system
+- Added tweaks to match Pixel 4a CPU Sets configuration and remove unnecessary CAF changes
+- Set bluetooth devices name in libinit
+
+**Source Side**
+- Should fixed magic eraser failed to work on photos that contains human subject
+- Fixed an issue where set alarm / timer while doing other tasks will crash the systemui to soft reboot
+- Fixed an issue where vtservice might hogging CPU in the background
+- Added Per App Volume
+- Added Game Space
+- Improvements to AOSP's screenrecord
+- Improvements to telephony
+
 25/07/2024 (Miatoll)
 - Fixed for certain users faced systemui freezing frequently
 - Moved BGMI Spoof to Redmi K30 Ultra
