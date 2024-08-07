@@ -1,3 +1,25 @@
+07/08/2024 (Miatoll)
+**Device Side**
+- Included kinesis omega r4.4 (Hopefully to fix issues with 4GB RAM users)
+- Drop memcg
+- Disabled backpressure propagation
+- Disabled SF client composition cache
+- Tweak padding once again (2nd)
+- Tweak audio configuration files (2nd)
+- Nuked hispeed_* stuffs that are useless on PELT
+- Updated phantom process monitoring prop
+- Updated some blobs from Redmi Note 10 Pro
+- Updated system blobs from LA.QSSI.14.0.r1-16000-qssi.0
+
+**Source Side**
+- Updated security patch to August 2024
+- Added misc improvements to SystemUI
+- Fixed issue where magic eraser and unblur failed to work
+- Disabled more services logspam in the background
+- Prevent renderthread crash caused by thread safety issues
+- Switched back to AOSP's icon for Settings
+- Switched to Google's Recorder
+
 29/07/2024 (Miatoll)
 **Device Side**
 - Switched back to Prebuilt Audio (to fix mic and wired earphone issues)
