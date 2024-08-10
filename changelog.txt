@@ -1,3 +1,9 @@
+11/08/2024 (Miatoll)
+**Device Side**
+- Included kinesis omega r4.5 rc2
+- Fixed an issue where ok google will make the audio to stutters
+- Added audio v5 HAL as fallback
+
 07/08/2024 (Miatoll)
 **Device Side**
 - Included kinesis omega r4.4 (Hopefully to fix issues with 4GB RAM users)
