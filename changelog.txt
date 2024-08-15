@@ -1,3 +1,12 @@
+15/08/2024 (Miatoll)
+**Device Side**
+- Enabled C2 Codecs
+- Build tinymix
+
+**Source Side**
+- Fixed Play Intergrity
+- Spoofs to Pixel 9 Pro (Install Google One to get Gemini Advanced, 2TB Google Drive and some Gemini integration stuffs)
+
 11/08/2024 (Miatoll)
 **Device Side**
 - Included kinesis omega r4.5 rc2
