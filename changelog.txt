@@ -1,3 +1,21 @@
+18/08/2024 (Miatoll)
+**Device Side**
+- Switched to AIDL Memtrack HAL
+- Updated adreno blobs from Oculus Quest 3 (Adreno Driver v777)
+- Updated DEQP level of OpenGL ES and Vulkan to 2021 to match Oculus Quest 3
+- Improvement to brightness ramping up and down
+- Added auto brightness adjustment max gamma to prevent jittering repeatedly in dim environment
+- Added Misys HAL (Fixed camera watermark)
+
+**Source Side**
+- Fixed Play Integrity by default
+- Improvements to SystemUI by adding O3 optimization
+- Scale max cache processes based on total ram size (Theoretically should improve 4GB RAM users daily usability)
+- Synced latest source changes from LineageOS
+- Updated gapps to Pixel 9 Pro
+- Added Pixel Wallpapers & Live Wallpapers by default
+- Added option to disable play integrity (This is for trickystore to work and get Strong Integrity)
+
 15/08/2024 (Miatoll)
 **Device Side**
 - Enabled C2 Codecs
