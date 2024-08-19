@@ -2,6 +2,7 @@
 **Source Side**
 - Fixed magic editor in Google Photo
 - Fixed miuicamera AI front camera
+- Fixed google dialer recording feature
 
 18/08/2024 (Miatoll)
 **Device Side**
