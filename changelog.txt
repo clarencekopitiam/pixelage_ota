@@ -1,3 +1,15 @@
+22/08/24 (Miatoll)
+**Device Side**
+- Reverted few changes from kinesis omega r4.7 (hopefully fix weird issues faced by few users)
+- Updated adreno drivers to v786 from Quest 2
+
+** Source Side**
+- Added certificate chain for hardware attestations (Strong Intergrity passed)
+- Added misc and fixes improvement to the ROM
+- Disabled Live Translate (It only works 100% on tensor based devices)
+- Disabled more useless debugs in background
+- Updated bootanimation from Pixel 9
+
 19/08/2024 (Miatoll)
 **Source Side**
 - Fixed magic editor in Google Photo
